@@ -1,6 +1,6 @@
 <p align="center">
   <a href="" rel="noopener">
- <img width=200px height=200px src="https://i.imgur.com/FxL5qM0.jpg" alt="Bot logo"></a>
+ <img width=400px height=300px src="https://raw.githubusercontent.com/hafizaj/183DB-Capstone/main/Demo/busserbot.png" alt="Bot logo"></a>
 </p>
 
 <h3 align="center">Busserbot</h3>
@@ -28,6 +28,9 @@ The Busserbot is a robotic busser designed by Team People for EC ENGR 183D/MAE 1
 
 ## 🎥 Demo / Working <a name = "demo"></a>
 ![Working](https://media.giphy.com/media/20NLMBm0BkUOwNljwv/giphy.gif)
+
+[![Full Cycle Simulation]({image-url})]({https://www.youtube.com/watch?v=2HlgLPjuZLk} "Full Cycle Simulation")
+
 
 ## 💭 How it works <a name = "working"></a>
 
