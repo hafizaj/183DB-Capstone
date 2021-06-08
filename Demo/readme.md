@@ -27,9 +27,9 @@
 The Busserbot is a robotic busser designed by Team People for EC ENGR 183D/MAE 162D.
 
 ## 🎥 Demo / Working <a name = "demo"></a>
-![Working](https://media.giphy.com/media/20NLMBm0BkUOwNljwv/giphy.gif)
-
-[![Full Cycle Simulation]({image-url})]({https://www.youtube.com/watch?v=2HlgLPjuZLk} "Full Cycle Simulation")
+[![Full Cycle Simulation](https://raw.githubusercontent.com/hafizaj/183DB-Capstone/main/Demo/thumbnail/full-cycle.png)](https://www.youtube.com/watch?v=2HlgLPjuZLk "Full Cycle Simulation")
+[![Single Stationary Simulation](https://raw.githubusercontent.com/hafizaj/183DB-Capstone/main/Demo/thumbnail/single.png)]({https://www.youtube.com/watch?v=q2SQm7otxc0&feature=youtu.be} "Single Stationary Simulation")
+[![Storage Simulation](https://raw.githubusercontent.com/hafizaj/183DB-Capstone/main/Demo/thumbnail/storage.png)](https://www.youtube.com/watch?v=hxuN4XihSyQ&feature=youtu.be "Storage Simulation")
 
 
 ## 💭 How it works <a name = "working"></a>
