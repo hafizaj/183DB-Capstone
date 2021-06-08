@@ -115,7 +115,7 @@ To see an example project on how to deploy your bot, please see my own configura
 
 ## ✍️ Authors <a name = "authors"></a>
 + [@hafizaj](https://github.com/hafizaj) - Coding/ Arm / Systems Integration Logic Design
-+ [@semiragali](https://github.com/semiragali) - Data Analysis
++ [@semiragali](https://github.com/semiragali) - Arm Mathematical Formulations/Data Analysis
 + [@shahrulkamil98](https://github.com/shahrulkamil98) - Storage Unit Logic Design
 + [@justincchandra](https://github.com/justincchandra) - Storage Unit Designer
 + [@anaravit](https://github.com/anaravit) - Robotic Arm Designer
