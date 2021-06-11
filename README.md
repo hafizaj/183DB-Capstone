@@ -29,3 +29,9 @@ This section will contain the data analysis of simulations completed in jupyter 
 
 ### Report
 This section will contain the final project report, critical design review report, and the previous preliminary design review report from 183DA/162DA.
+
+### Demo
+This section will contain the instructions to emulate our simulations on your device.
+
+### User Studies
+This section will contain the findings of our survey of the restaurant landscape
